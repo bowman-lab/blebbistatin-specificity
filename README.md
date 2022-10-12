@@ -1,2 +1,2 @@
 # blebbistatin-specificity
-Code and data for blebbistatin specificity manuscript
+Code for blebbistatin specificity manuscript (https://www.biorxiv.org/content/10.1101/2022.09.05.506254v1). Data can be found at our OSF project: https://osf.io/cv6d2/. All figures were generated in the Jupyter notebooks found in the notebooks folder. If you wish to replicate our plots, you can download the OSF project (paths for loading data are currently set to our cluster and will need to be updated). Scripts folder contains scripts for clustering trajectories, performing VAMP scans, and calculating pocket volumes. Some additional scripts for plotting supplemental figures can be found at https://github.com/bnovakborna/myosin_pub. 
